@@ -1,2 +1,2 @@
 # blogpic
-upload Typora pic by PicGo 
+通过PicGo上传Typora图片
